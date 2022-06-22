@@ -23,15 +23,15 @@ public class SyntaxEmployee {
     public static void main(String[] args) {
 
             SyntaxEmployee employee1=new SyntaxEmployee();
-            employee1.eid =89;
-            employee1.salary=250000;
+                employee1.eid =89;
+                employee1.salary=250000;
 
-            SyntaxEmployee employee2=new SyntaxEmployee();
-            employee2.eid =75;
-            employee2.salary=150000;
+                SyntaxEmployee employee2=new SyntaxEmployee();
+                employee2.eid =75;
+                employee2.salary=150000;
 
-            employee1.printEmployee();
-            employee2.printEmployee();
+                employee1.printEmployee();
+                employee2.printEmployee();
     }
 
 }
